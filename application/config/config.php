@@ -20,7 +20,7 @@ $config['modules_locations'] = array(
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost:8000';
+$config['base_url']	= 'http://bf2';
 
 /*
 |--------------------------------------------------------------------------
@@ -230,7 +230,7 @@ $config['cache_path'] = APPPATH .'cache/';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = "68c18669ffa1bdc91934cb4d3649058b";
+$config['encryption_key'] = "16d7ea6eded2356ae12443dd4704f25a";
 
 /*
 |--------------------------------------------------------------------------
